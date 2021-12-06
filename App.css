@@ -1,0 +1,57 @@
+.produkStock {
+  display: flex;
+}
+
+.produkDisplay {
+  display: flex;
+  margin-left: 20px;
+}
+
+.produkId {
+  margin-left: 20px;
+  margin-top: 4px;
+}
+
+.lokasiTable p {
+  margin-left: 30px;
+}
+
+.lokasiId {
+  display: flex ;
+  margin-bottom: 15px;
+}
+
+.produkStockId {
+  display: flex
+}
+
+.produkStockId p{
+  margin-left:50px;
+}
+
+
+.orderTitle,
+.categoryTitle,
+.stockTitle,
+.persenTitle,
+.productTittle {
+  margin-left: 20px;
+
+}
+
+.categoryTitle {
+  margin-bottom: 50px;
+}
+.categoryList {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.productTittle {
+  margin-bottom: 50px;
+}
+
+.productList {
+  margin-left: 20px;
+  margin-top: 20px;
+}
